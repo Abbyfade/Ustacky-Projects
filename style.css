@@ -143,13 +143,6 @@ h3 {
     /* height: 100%; */
 }
 
-#price1{
-    position: relative;
-    top: 120px;
-    font-size: 40px;
-    display: none;
-    color: white;
-}
 
 .shop-item .item-name {
     font-family: Arial, Helvetica, sans-serif;
